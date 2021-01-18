@@ -1,2 +1,2 @@
 # Video-Slider
-MERN Video-slider
+Simple video slider with snap scroll.
